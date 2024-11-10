@@ -9,7 +9,7 @@ fn main() {
         .read_line(&mut fahrenheit)
         .expect("Failed to read line");
 
-    let fahrenheit: f64 = fahrenheit.trim().parse().expect("Put in a number");
+    let fahrenheit: f64 = fahrenheit.trim().parse().expect("Please put in a number!");
 
     let celcius: f64 = (fahrenheit - 32.0) * 5.0 / 9.0; // °C = (°F - 32) × 5/9
 
