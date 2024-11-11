@@ -27,3 +27,12 @@ pub fn test_match_string2(car_manufacturer: &str) -> u32 {
         _ => 0,
     }
 }
+
+pub fn test_match_array() {
+    let prices: [u32; 4] = [30000, 50000, 90000, 120000];
+
+    match prices[0..=1] {
+        [30000, 50000] => println!("You have some reasonable car price"),
+        _ => println!("You dont have any good car price"),
+    }
+}
