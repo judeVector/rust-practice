@@ -32,3 +32,26 @@ impl ToString for CharacterType {
         .to_string()
     }
 }
+// println!(
+//     "Character at index 8: {:?}",
+//     match name.chars().nth(1) {
+//         Some(c) => c.to_string(),
+//         None => "There is no character".to_string(),
+//     }
+// );
+
+// println!(
+//     "Occupation is {}",
+//     match get_occupation(&name) {
+//         Some(o) => o,
+//         None => "Not found!",
+//     }
+// )
+
+fn get_occupation(name: &str) -> Option<&str> {
+    match name {
+        "Dominic" => Some("Software Developer"),
+        "Micheal" => Some("Dentist"),
+        _ => None,
+    }
+}
