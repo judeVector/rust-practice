@@ -6,9 +6,6 @@ enum VehicleColor {
     Blue,
     Red,
     Green,
-    Silver,
-    White,
-    Black,
 }
 
 struct Person<'p> {
