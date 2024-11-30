@@ -2,7 +2,7 @@
 
 Welcome to my **Rust Practice and Learning Repository**! 🚀
 
-This repository is a collection of my Rust programming exercises, experiments, and projects. It serves as a personal playground to explore the diverse capabilities of Rust, including but not limited to game development, networking, blockchain, and other exciting domains. I will continue updating this repository as I progress on my Rust journey.
+This repository is a collection of my Rust programming exercises, experiments, and projects. It serves as a personal playground to explore the diverse capabilities of Rust, including but not limited to game development, networking, blockchain, and other exciting domains. I will continue updating this repository as I progress on my Rust journey and as I advance.
 
 ## 🛠️ What You'll Find Here
 
