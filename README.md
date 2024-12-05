@@ -17,7 +17,7 @@ This repository is a collection of my Rust programming exercises, experiments, a
   * Implementation of consensus mechanisms
 * **General Rust Practice**:
   * Basic to advanced Rust concepts.
-  * Structs, enums, error handling, ownership, concurrency, and more.
+  * Structs, enums, error handling, ownership, concurrency, etc.
 * **Game Development**:
   * Experiments with creating games using Rust.
   * Exploration of Rust libraries like `bevy`, `ggez`, or custom implementations.
