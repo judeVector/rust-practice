@@ -1,0 +1,6 @@
+{
+        "name": "Vector Token",
+        "symbol": "VEC",
+        "description": "This is a test vector token for the solana foundation bootcamp",
+        "image": "https://raw.githubusercontent.com/judeVector/rust-practice/refs/heads/main/flash.png"
+}
